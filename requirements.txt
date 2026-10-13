@@ -1,0 +1,3 @@
+aiomax
+python-dotenv
+aiosqlite
